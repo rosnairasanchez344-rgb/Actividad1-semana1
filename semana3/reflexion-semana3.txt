@@ -1,0 +1,2 @@
+Usar Git es importante porque permite guardar cambios, organizar el 
+trabajo y facilitar el trabajo en equipo en un proyecto de software.
