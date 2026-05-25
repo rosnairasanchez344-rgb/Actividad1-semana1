@@ -1,0 +1,4 @@
+El uso responsable de la información en internet,la participación ciudadana y herramientas como Git se relacionan 
+porque todos promueven la colaboración, la responsabilidad y el trabajo organizado.
+ Así como en internet debemos compartir información de forma ética y respetuosa, 
+ en Git los equipos trabajan de manera coordinada y transparente para desarrollar proyectos en conjunto
