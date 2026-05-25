@@ -1,0 +1,4 @@
+Es importante que un desarrollador sepa usar la terminal porque le 
+permite navegar entre carpetas, crear, mover y organizar archivos de 
+forma rápida y eficiente. Además, muchas herramientas de programación, 
+como Git, funcionan desde la terminal, facilitando el trabajo y la organización de los proyectos.
