@@ -1,0 +1,6 @@
+https://special-guide-5vgqwwg5xqpr24qvg-3000.app.github.dev/
+Ruta http://localhost:3000: muestra el mensaje "Servidor activo".
+
+Ruta http://localhost:3000/saludo: muestra el mensaje "Hola comunidad".
+
+Ruta http://localhost:3000/mensaje/juan: muestra el mensaje "Hola juan" utilizando el nombre enviado en la URL.
