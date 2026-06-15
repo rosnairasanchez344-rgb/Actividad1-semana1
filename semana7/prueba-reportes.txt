@@ -1,0 +1,3 @@
+Al registrar reportes mediante la ruta POST /reportes, estos se almacenan temporalmente en el array reportes.
+ Cuando se consulta la ruta GET /reportes, el servidor devuelve una lista con todos los reportes registrados. 
+ Cada reporte recibe un identificador (id) automático que aumenta según la cantidad de reportes almacenados.
