@@ -1,0 +1,5 @@
+1. Establecer contraseñas seguras y cambiarlas periódicamente.
+2. Verificar la identidad de los usuarios antes de otorgar acceso.
+3. Mantener actualizados los sistemas y aplicaciones de la plataforma.
+4. Realizar copias de seguridad de la información de forma regular.
+5. Restringir el acceso a la información según el rol de cada usuario.
