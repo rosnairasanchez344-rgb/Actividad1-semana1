@@ -1,0 +1,9 @@
+La plataforma tendría una página principal donde se muestren todos los eventos disponibles para la 
+comunidad. 
+
+También incluiría un formulario para registrar un nuevo evento con campos como nombre, fecha, lugar y 
+descripción. Cada evento tendría un botón para que los usuarios puedan inscribirse fácilmente. Además, se 
+mostraría un contador indicando cuántas personas se han registrado en cada evento. 
+
+
+La interfaz sería sencilla, organizada y evitaría mostrar información privada de los participantes.

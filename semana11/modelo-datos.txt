@@ -1,0 +1,24 @@
+Entidad: Evento
+
+Campos principales:
+- id
+- nombre
+- lugar
+- fecha
+- descripcion
+
+Propósito:
+Guardar la información de los eventos comunitarios que se organizarán para los ciudadanos.
+
+
+Entidad: Inscripción
+
+Campos principales:
+- id
+- evento_id
+- nombre_participante
+- correo
+- fecha_registro
+
+Propósito:
+Registrar a las personas que desean participar en cada evento y llevar un control de las inscripciones.
