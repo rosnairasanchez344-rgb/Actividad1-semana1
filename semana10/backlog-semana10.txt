@@ -1,0 +1,14 @@
+1. Como líder comunitario quiero asignar cada solicitud a un 
+responsable para asegurar que todas sean atendidas.
+
+2. Como ciudadano quiero adjuntar fotografías como evidencia al enviar 
+una solicitud para respaldar la información reportada.
+
+3. Como integrante del equipo quiero filtrar las solicitudes por 
+estado (pendiente, en proceso o finalizada) para facilitar el seguimiento.
+
+4. Como administrador quiero generar un resumen de las solicitudes 
+recibidas para conocer las necesidades más frecuentes de la comunidad.
+
+5. Como ciudadano quiero recibir una notificación cuando mi solicitud 
+cambie de estado para mantenerme informado sobre su avance.
