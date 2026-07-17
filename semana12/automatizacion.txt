@@ -1,0 +1,14 @@
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Ya está disponible para recibir apoyos."
+
+Información que no debe enviarse:
+- Números de cédula.
+- Teléfonos.
+- Direcciones.
+- Correos electrónicos.
+- Comentarios sensibles o información personal de los usuarios.
+
+De esta manera se protege la privacidad de las personas y solo se comparte la información necesaria.

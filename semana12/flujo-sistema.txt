@@ -1,0 +1,7 @@
+Flujo del sistema Petición en 3 Clics
+
+1. El usuario ingresa a la plataforma y registra una nueva petición.
+2. La información de la petición queda almacenada en el sistema.
+3. La comunidad puede visualizar la petición y brindar su apoyo.
+4. El sistema actualiza automáticamente la cantidad de apoyos recibidos.
+5. Al finalizar el proceso, se crea un documento PDF con la información de la petición para compartirlo o presentarlo.
